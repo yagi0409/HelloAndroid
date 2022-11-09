@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">イベントとリスナサンプル</string>
+    <string-array name="list">
+        <item>新宿</item>
+        <item>原宿</item>
+        <item>渋谷</item>
+    </string-array>
+    <string name="bt_text1">表示</string>
+    <string name="bt_text2">クリア</string>
+</resources>
