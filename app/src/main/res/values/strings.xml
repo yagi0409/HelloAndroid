@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">イベントとリスナサンプル</string>
+    <string name="input">お名前を入力してください。</string>
+    <string name="gender">性別を選んでください。</string>
+    <string name="station">返却する駅を選んでください。</string>
+    <string name="rb_male">男</string>
+    <string name="rb_female">女</string>
     <string-array name="list">
-        <item>新宿</item>
-        <item>原宿</item>
-        <item>渋谷</item>
+        <item>恵比寿</item>
+        <item>大崎</item>
+        <item>西大井</item>
     </string-array>
     <string name="bt_text1">表示</string>
     <string name="bt_text2">クリア</string>
